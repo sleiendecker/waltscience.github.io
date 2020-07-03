@@ -82,6 +82,7 @@ In some cases, it probably also depends on whether your desired candidate won.
 * [Five common misconceptions about the Electoral College](https://www.theatlantic.com/ideas/archive/2019/11/five-common-misconceptions-about-electoral-college/602596/)
 * [Supreme Court weighs whether Electoral College members must stick to state's Popular Vote](https://www.wsj.com/articles/supreme-court-to-weigh-whether-electoral-college-members-must-stick-to-states-popular-vote-11589362201)
 
+<br>
 
 
 
