@@ -24,7 +24,7 @@ To find out, I calculated the presidential voting power of each state. By dividi
 The resulting number is the individual voting power for each state compared to the average person's voting power across all states.
 
 <iframe src="https://public.tableau.com/views/PersonalVotingPowerMap/Map?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
-<div align="center"><em>Individual voting power by state. Click or Hover on a state to see its voting power compared to the average voter.</em></div>
+<div align="center"><em>Individual voting power by state. Click or hover on a state to see its voting power compared to the average voter.</em></div>
 
 <br>
 
