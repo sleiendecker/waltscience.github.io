@@ -92,5 +92,5 @@ In some cases, it probably depends on whether your desired candidate won.
 <br>
 
 *Election data source: [United States Election Project](http://www.electproject.org)*
-
+*Data available on [GitHub](https://github.com/waltscience/votepower)*
 <br>
