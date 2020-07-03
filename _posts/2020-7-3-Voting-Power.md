@@ -69,8 +69,10 @@ One way to answer this question is to count the times the Electoral College has 
 * Donald Trump (2016)
 
 Among 45 presidents, that means about **1 out of every 10 presidents was elected by losing the popular vote but winning the most electors**.
+ 
+***
+
 <br>
-----
 <br>
 
 ## Is the Electoral College anti-democratic?
