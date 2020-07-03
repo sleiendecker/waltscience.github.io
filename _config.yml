@@ -18,7 +18,8 @@ avatar: https://github.com/waltscience.png?=50
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  twitter: waltscience
+  twitter:
+    username: waltscience
   instagram: waltscience
   email: cwalte12@mail.wvu.edu
   facebook:
@@ -77,6 +78,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-seo-tag
 
 # Exclude these files from your production _site
 exclude:
