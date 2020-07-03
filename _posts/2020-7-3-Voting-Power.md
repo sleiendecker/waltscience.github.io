@@ -21,7 +21,7 @@ The people that actually elect a president are called electors. All the electors
  
 The resulting number is the individual voting power for each state compared to the average person's voting power across all states.
 
-<iframe src="https://public.tableau.com/views/PersonalVotingPowerMap/Map?:showVizHome=no&:embed=true" width="650" height="500"></iframe>
+<iframe src="https://public.tableau.com/views/PersonalVotingPowerMap/Map?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
 <div align="center"><em>Presidential voting power by state. Click on a state to see </em></div>
 <div align="center"><em>Individual voting power by state. Click on a state to see its voting power compared to the average voter.</em></div>
 
