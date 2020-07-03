@@ -3,7 +3,7 @@ layout: post
 title: Do some states have more power to elect a president?
 ---
 
-* Yes, because Americans don't actually vote for a president.**
+**Yes, because Americans don't actually vote for a president.**
 
 Instead, they vote to determine how the actual people who vote for president should vote. If that sounds needlessly complicated, [it is.](https://www.history.com/news/the-history-of-the-electoral-college-debate)
 
