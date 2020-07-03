@@ -1,9 +1,13 @@
 ---
 layout: post
-title: You're up and running!
+title: Which states have the most power to elect a president?
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+**Americans don't actually vote for a president**
+
+Instead, they vote to determine how the actual people who vote for president should vote. If that sounds needlessly complicated, it is.
+
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
