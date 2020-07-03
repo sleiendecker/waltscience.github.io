@@ -35,7 +35,7 @@ The map shows people in certain states have much more power to elect a president
 
 To answer this, I calculated the potential voting power of each state if all eligible voters voted. There is no relationship between potential voting power and voter turnout.
 
-<iframe src="https://public.tableau.com/profile/chris6322#!/vizhome/Percentvs_Potential/Sheet2?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
+<iframe src="https://public.tableau.com/views/Percentvs_Potential/Sheet2?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
 <div align="center"><em>Potential individual voting power by state. The power a voter in a state has if every elegible voter voted.</em></div>
 
 <br>
@@ -43,8 +43,6 @@ To answer this, I calculated the potential voting power of each state if all eli
 Hawaii and West Virginia are the states with the lowest voter turnout in the nation. But they both have more potential voting power than the average voter. What is going on here?
 
 [An NPR story interviewing West Virginians in 2018](https://www.npr.org/2018/09/10/646422511/what-some-west-virginia-residents-have-to-say-on-why-they-dont-vote) suggests voters there simply think their vote doesn't matter.
-
-<br>
 
 <iframe src="https://www.npr.org/player/embed/646422511/646422512" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 
