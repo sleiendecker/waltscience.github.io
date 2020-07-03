@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Which states have the most power to elect a president?
+title: Do some states have more power to elect a president?
 ---
 
-## Americans don't actually vote for a president
+* Yes, because Americans don't actually vote for a president.**
 
 Instead, they vote to determine how the actual people who vote for president should vote. If that sounds needlessly complicated, [it is.](https://www.history.com/news/the-history-of-the-electoral-college-debate)
 
@@ -64,7 +64,12 @@ One way to answer this question is to count the times the Electoral College has 
 
 Among 45 presidents, that means about **1 out of every 10 presidents was elected by losing the popular vote but winning the most electors**.
 
-Does this 
+<br>
+<br>
+
+## Is 
+
+Is the
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The electoral college is a disaster for a democracy.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/266038556504494082?ref_src=twsrc%5Etfw">November 7, 2012</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
