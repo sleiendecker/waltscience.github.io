@@ -28,5 +28,13 @@ The resulting number is the individual voting power for each state compared to t
 
 The map shows people in certain states have much more power to elect a president. One vote in Wyoming is about 260% more powerful than the average voter. But one vote in Florida only has 68% the power of an average vote.
 
-k
+
+<iframe src="https://public.tableau.com/profile/chris6322#!/vizhome/Percentvs_Potential/Sheet2?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
+<div align="center"><em>Potential individual voting power by state. The power a voter in a state has if every elegible voter voted.</em></div>
+
+<br>
+
+
+
+
 
