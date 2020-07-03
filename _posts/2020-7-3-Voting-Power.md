@@ -47,6 +47,7 @@ Hawaii and West Virginia are the states with the lowest voter turnout in the nat
 >Because we don't matter. We're so small. It really don't matter. I mean, literally look. You look up and down the streets. There's nobody. - Brittany Jenkins, West Virginian
 
 But your vote does matter Brittany, *it does*. It matters more than mine and more than most Americans. 
+----
 <br>
 
 ## How has the Electoral College affected elections?
