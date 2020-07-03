@@ -16,4 +16,4 @@ The people that actually elect a president are called electors. All the electors
 
 How does the Electoral College affect your power to elect a president? To find out, I calculated the presidential voting power of each state.
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/PersonalVotingPowerMap/Map" width = '650' height = '450'></iframe> 
+<iframe src="https://public.tableau.com/views/PersonalVotingPowerMap/Map?:showVizHome=no&:embed=true" width="650" height="450"></iframe>
