@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a research scientist specializing in empirical and statistical modeling of complex systems. 
+I am a research scientist specializing in statistical and empirical modeling of complex systems. 
 
 
 ### Credentials
