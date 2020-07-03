@@ -1,6 +1,5 @@
 ---
 layout: post
-image: {{ site.baseurl }}/images/Electoral_Map_States.png
 title: Do some people have more power than others to elect a president?
 ---
 
