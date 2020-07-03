@@ -47,8 +47,25 @@ Hawaii and West Virginia are the states with the lowest voter turnout in the nat
 <iframe src="https://www.npr.org/player/embed/646422511/646422512" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 >Because we don't matter. We're so small. It really don't matter. I mean, literally look. You look up and down the streets. There's nobody. - Brittany Jenkins, West Virginian
 
-But your vote does matter Brittany, it does. It matters more than mine and more than most Americans.
+But your vote does matter Brittany, *it does**. It matters more than mine and more than most Americans. 
 
+<br>
+<br>
+
+## How has the Electoral College affected elections?
+
+One way to answer this question is to count the times the Electoral College has diverged from the popular vote. Five presidents have won the election but lost the popular vote:
+*John Adams (1824)
+*Rutherford Hayes (1876)
+*Benjamin Harrison (1888)
+*George W. Bush (2000)
+*Donald Trump (2016)
+
+Among 45 presidents, that means about **1 out of every 10 presidents was elected by losing the popular vote but winning the most electors**.
+
+Does this 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The electoral college is a disaster for a democracy.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/266038556504494082?ref_src=twsrc%5Etfw">November 7, 2012</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
