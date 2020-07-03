@@ -18,3 +18,4 @@ How does the Electoral College affect your power to elect a president? To find o
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/profile/chris6322#!/vizhome/PersonalVotingPowerMap/Map?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>    
 
+<iframe seamless frameborder="0" src="https://public.tableau.com/profile/chris6322#!/vizhome/PersonalVotingPowerMap/Map?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe> 
