@@ -12,10 +12,10 @@ The people that actually elect a president are called electors. All the electors
 ![Electoral College Map]({{ site.baseurl }}/images/Electoral_Map_States.png "Electoral College Map")
 <div align="center"><em>Electoral college votes by state</em></div>
 
-***
+<br>
+<br>
 
-<br>
-<br>
+***
 
 ## How does the Electoral College affect your power to elect a president?
 
@@ -30,10 +30,10 @@ The resulting number is the individual voting power for each state compared to t
 
 The map shows people in certain states have much more power to elect a president. One vote in Wyoming is about 260% more powerful than the average voter. But one vote in Florida only has 68% the power of an average vote.
 
-***
+<br>
+<br>
 
-<br>
-<br>
+***
 
 ## Does having more voting power lead to more voting?
 
@@ -52,11 +52,11 @@ Hawaii and West Virginia are the states with the lowest voter turnout in the nat
 >Because we don't matter. We're so small. It really don't matter. I mean, literally look. You look up and down the streets. There's nobody. - Brittany Jenkins, West Virginian
 
 But your vote does matter Brittany, *it does*. It matters more than mine and more than most Americans.
- 
-***
 
 <br>
 <br>
+
+***
 
 ## How has the Electoral College affected elections?
 
@@ -69,11 +69,11 @@ One way to answer this question is to count the times the Electoral College has 
 * Donald Trump (2016)
 
 Among 45 presidents, that means about **1 out of every 10 presidents was elected by losing the popular vote but winning the most electors**.
- 
-***
 
 <br>
 <br>
+
+***
 
 ## Is the Electoral College anti-democratic?
 
@@ -83,7 +83,6 @@ In some cases, it probably also depends on whether your desired candidate won.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The electoral college is a disaster for a democracy.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/266038556504494082?ref_src=twsrc%5Etfw">November 7, 2012</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<br>
 <br>
 
 **More on the Electoral College**
