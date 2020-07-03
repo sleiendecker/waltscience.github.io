@@ -11,9 +11,10 @@ The people that actually elect a president are called electors. All the electors
 
 ![Electoral College Map]({{ site.baseurl }}/images/Electoral_Map_States.png "Electoral College Map")
 <div align="center"><em>Electoral college votes by state</em></div>
+<br>
 ____
 <br>
-<br>
+
 
 ## How does the Electoral College affect your power to elect a president?
 
@@ -27,8 +28,8 @@ The resulting number is the individual voting power for each state compared to t
 <br>
 
 The map shows people in certain states have much more power to elect a president. One vote in Wyoming is about 260% more powerful than the average voter. But one vote in Florida only has 68% the power of an average vote.
-____
 <br>
+____
 <br>
 
 ## Does having more voting power lead to more voting?
@@ -48,8 +49,8 @@ Hawaii and West Virginia are the states with the lowest voter turnout in the nat
 >Because we don't matter. We're so small. It really don't matter. I mean, literally look. You look up and down the streets. There's nobody. - Brittany Jenkins, West Virginian
 
 But your vote does matter Brittany, *it does*. It matters more than mine and more than most Americans. 
-____
 <br>
+____
 <br>
 
 ## How has the Electoral College affected elections?
@@ -63,8 +64,8 @@ One way to answer this question is to count the times the Electoral College has 
 * Donald Trump (2016)
 
 Among 45 presidents, that means about **1 out of every 10 presidents was elected by losing the popular vote but winning the most electors**.
-____
 <br>
+____
 <br>
 
 ## Is the Electoral College anti-democratic?
