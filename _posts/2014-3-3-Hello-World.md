@@ -10,5 +10,6 @@ Instead, they vote to determine how the actual people who vote for president sho
 The people that actually elect a president are called electors. And all the electors together form the Electoral College. Each state is given presidential electors based on its population size.
 
 ![Electoral College Map]({{ site.baseurl }}/images/Electoral_Map_States.png "Electoral College Map")
-<div align="center">*Electoral college votes by state*
+<div align="center"> *Electoral college votes by state* </div>
 
+-> *Electoral college votes by state* <-
