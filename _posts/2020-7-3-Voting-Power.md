@@ -55,11 +55,12 @@ But your vote does matter Brittany, *it does**. It matters more than mine and mo
 ## How has the Electoral College affected elections?
 
 One way to answer this question is to count the times the Electoral College has diverged from the popular vote. Five presidents have won the election but lost the popular vote:
-*John Adams (1824)
-*Rutherford Hayes (1876)
-*Benjamin Harrison (1888)
-*George W. Bush (2000)
-*Donald Trump (2016)
+
+* John Adams (1824)
+* Rutherford Hayes (1876)
+* Benjamin Harrison (1888)
+* George W. Bush (2000)
+* Donald Trump (2016)
 
 Among 45 presidents, that means about **1 out of every 10 presidents was elected by losing the popular vote but winning the most electors**.
 
