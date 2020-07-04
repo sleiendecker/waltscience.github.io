@@ -9,7 +9,7 @@ I am a research scientist specializing in statistical and empirical modeling of 
 
 ### Credentials
 
-I have a PhD in Biology and I am curently an MS candidate in Analytics at the Georgia Institute of Technology. I have 18 years of experience in research science in both academia and government agencies. For a list of my publications, please visit [my Google Scholar page](https://scholar.google.com/citations?hl=en&user=wfn0gRYAAAAJ). 
+I have a PhD in Biology and I am curently an MS candidate in Analytics at the Georgia Institute of Technology. I have 18 years of research experience in both academics and government. For a list of my publications, please visit [my Google Scholar page](https://scholar.google.com/citations?hl=en&user=wfn0gRYAAAAJ). 
 
 
 ### Contact
