@@ -21,7 +21,7 @@ The people that actually elect a president are called electors. All the electors
 
 ***
 
-## How does the Electoral College affect your power to elect a president?
+### How does the Electoral College affect your power to elect a president?
 
 To find out, I calculated the presidential voting power of each state. By dividing the number of presidential ballots cast by the number of electors in each state, I determined the number of ballots per elector. To calculate power, I then divided each states ballots per elector value by the average state ballots per elector.
  
@@ -39,7 +39,7 @@ The map shows people in certain states have much more power to elect a president
 
 ***
 
-## Does having more voting power lead to more voting?
+### Does having more voting power lead to more voting?
 
 To answer this, I calculated the potential voting power of each state if all eligible voters voted. There is no relationship between potential voting power and voter turnout.
 
@@ -62,7 +62,7 @@ But your vote does matter Brittany, *it does*. It matters more than mine and mor
 
 ***
 
-## How has the Electoral College affected elections?
+### How has the Electoral College affected elections?
 
 One way to answer this question is to count the times the Electoral College has diverged from the popular vote. Five presidents have won the election but lost the popular vote:
 
@@ -79,7 +79,7 @@ Among 45 presidents, that means about **1 out of every 10 presidents was elected
 
 ***
 
-## Is the Electoral College anti-democratic?
+### Is the Electoral College anti-democratic?
 
 I have shown that each person's vote is not equal in presidential elections. Whether or not this misappropriation of power is anti-democratic depends on each person's idea of democracy.
 
