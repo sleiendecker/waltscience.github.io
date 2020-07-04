@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a research scientist specializing in statistical and empirical modeling of systems. I write articles for fun and I try to learn new analysis and visualization tools along the way.
+I am a research scientist specializing in statistical and empirical modeling. I write articles for fun and I try to learn new analysis and visualization tools along the way.
 
 
 ### Credentials
