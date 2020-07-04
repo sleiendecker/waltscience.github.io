@@ -6,6 +6,7 @@ excerpt: Yes, because Americans don't actually vote for a president.
 time: 3 minute read
 title: Do some people have more power than others to elect a president?
 ---
+<br>
 **Yes, because Americans don't actually vote for a president.**
 
 Instead, they vote to determine how the actual people who vote for president should vote. If that sounds needlessly complicated, [it is.](https://www.history.com/news/the-history-of-the-electoral-college-debate)
