@@ -80,9 +80,9 @@ Among 45 presidents, that means about **1 out of every 10 presidents was elected
 
 ## Is the Electoral College anti-democratic?
 
-I have shown that each person's vote is not equal in presidential elections. Whether or not this misappropriation of power is anti-democratic depends on your ideas on democracy.
+I have shown that each person's vote is not equal in presidential elections. Whether or not this misappropriation of power is anti-democratic depends on each person's idea of democracy.
 
-In some cases, it probably depends on whether your desired candidate won.
+It might also depend on when you are asked.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The electoral college is a disaster for a democracy.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/266038556504494082?ref_src=twsrc%5Etfw">November 7, 2012</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -93,6 +93,9 @@ In some cases, it probably depends on whether your desired candidate won.
 * [Supreme Court weighs whether Electoral College members must stick to state's Popular Vote](https://www.wsj.com/articles/supreme-court-to-weigh-whether-electoral-college-members-must-stick-to-states-popular-vote-11589362201)
 
 <br>
+<br>
+
+***
 
 *Election data source: [United States Election Project](http://www.electproject.org)*
 
