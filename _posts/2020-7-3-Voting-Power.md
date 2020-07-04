@@ -30,7 +30,7 @@ The resulting number is the individual voting power for each state compared to t
 
 <br>
 
-The map shows people in certain states have much more power to elect a president. One vote in Wyoming is about 260% more powerful than the average voter. But one vote in Florida only has 68% the power of an average vote.
+The map shows people in certain states have much more power to elect a president. **One vote in Wyoming is about 260% more powerful than the average voter. But one vote in Florida only has 68% the power of an average vote.**
 
 <br>
 <br>
