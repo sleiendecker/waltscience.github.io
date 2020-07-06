@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a data scientist specializing in statistical and empirical modeling. I write articles for fun and try to learn techniques along the way.
+I am a data scientist specializing in statistical and empirical modeling. I write articles for fun and try to learn new techniques along the way.
 
 ### Credentials
 
