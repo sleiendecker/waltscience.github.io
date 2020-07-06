@@ -3,4 +3,4 @@ layout: page
 permalink: /cv
 ---
 
-<object data="{{ site.baseurl }}/_creds/Walter_CV_web.pdf" width="100%" height="1000" type="application/pdf""></object>
+<iframe src="https://docs.google.com/gview?url={{ site.baseurl }}_creds/Walter_CV_web.pdf&embedded=true" style="width:100%; height:1000;" frameborder="0"></iframe>
