@@ -8,7 +8,7 @@ I am a data scientist specializing in statistical and empirical modeling. I writ
 
 ### Credentials
 
-I have a PhD in Biology and am curently an MS candidate in Analytics at the Georgia Institute of Technology. I have 13 years of research experience in both academic and government institutions. For more information, please click a link below.
+I have a PhD in Biology and I am curently an MS candidate in Analytics at the Georgia Institute of Technology. I have 13 years of research experience in both academic and government institutions. For more information, please click a link below.
 
  * [Publications](https://scholar.google.com/citations?hl=en&user=wfn0gRYAAAAJ)
  * [Resume]({{ site.baseurl }}/res)
