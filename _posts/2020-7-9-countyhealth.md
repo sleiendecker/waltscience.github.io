@@ -20,6 +20,8 @@ Like me, you might have expected healthier counties in the U.S. to be less affec
 
 I relied on the [County Health Rankings Project at University of Wisconsin](https://www.countyhealthrankings.org) for guidance. They rank the health of counties within each state using a weighted model of health policies, factors, and outcomes.
 
+<br>
+
 <p align="center">
   <img src="{{ site.baseurl }}/images/uwmodel.jpg" />
 </p>
@@ -55,6 +57,8 @@ The variables were reduced to two dimensions using Non-Metric Multidimensional S
 
 One way to look at the effect of Coronavirus in counties is to simply compare at the number of cases. However, the number of cases in an area is highly dependent on size of the population. In fact, about 80% of variation in the number of cases in a county can be explained by population size alone.
 
+<br>
+
 <iframe src="https://public.tableau.com/views/Covcaspop/Covcaspop?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
 <div align="center"><em>Coronavirus cases in a county vs. population.</em></div>
 
@@ -64,12 +68,16 @@ Another way to measure Coronavirus impact is to compare the number of deaths. He
 
 A measure of Coronavirus impact that removes the population effect is the percentage of cases resulting in death. I used this number to test against the health of counties.
 
+<br>
+
 <iframe src="https://public.tableau.com/views/Covdpchlth/Covdpchlth?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
 <div align="center"><em>Percentage of Coronavirus cases resulting in death in counties compared to county health index.</em></div>
 
 <br>
 
 There is no real relationship between the effect of Coronavirus and the health of a county. Coronavirus is affecting county populations similarly, regardless of their health. This is also illustrated when mapping Coronavirus effects across the nation.
+
+<br>
 
 <iframe src="https://public.tableau.com/views/Covdpchlthmap/Covdpchlthmap?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
 <div align="center"><em>Map of Coronavirus effect in counties. The size of a point represents the number of Coronavirus cases resulting in death, and the color represents county health index. Counties not shown had no cases as of July 8, 2020</em></div>
