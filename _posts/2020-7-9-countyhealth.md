@@ -55,7 +55,7 @@ The variables were reduced to two dimensions using Non-Metric Multidimensional S
 
 ## Comparing the effect of Coronavirus vs. the health of a county
 
-One way to look at the effect of Coronavirus in counties is to simply compare at the number of cases. However, the number of cases in an area is highly dependent on size of the population. In fact, about 80% of variation in the number of cases in a county can be explained by population size alone.
+One way to look at the effect of Coronavirus in counties is to simply compare the number of cases. However, the number of cases in an area is highly dependent on size of the population. In fact, about 80% of variation in the number of cases in a county can be explained by population size alone.
 
 <br>
 
