@@ -25,19 +25,25 @@ I relied on the [County Health Rankings Project at University of Wisconsin](http
 </p>
 <div align="center"><em>University of Wisconsin County Health Model Framework</em></div>
 
+<br>
+
 However, the output from their model are ranks of each county within each state. That presents two problems for nationwide comparison:
 
  1. Rank differences aren't necessarily different - e.g. the #1 healthiest county in a state may not actually be significantly healthier than #4.
  
- 2. Since the ranks are done within each state, there is no way to compare the health of counties across states
+ 2. Since the ranks are done within each state, there is no way to compare the health of counties across states.
 
 To fix this, I created a nation-wide county health index using 50 variables from their model, but skipping their ranks.
+
+<br>
 
 <p align="center">
   <img src="{{ site.baseurl }}/images/hlthvars.jpg" />
 </p>
 <div align="center"><em>Variables used to create a nation-wide county health index</em></div>
   
+<br>
+
 The variables were reduced to two dimensions using Non-Metric Multidimensional Scaling. The first dimension was then scaled from zero to one to create a county health index.
 
 <br>
@@ -52,6 +58,8 @@ One way to look at the effect of Coronavirus in counties is to simply compare at
 <iframe src="https://public.tableau.com/views/Covcaspop/Covcaspop?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
 <div align="center"><em>Coronavirus cases in a county vs. population.</em></div>
 
+<br>
+
 Another way to measure Coronavirus impact is to compare the number of deaths. Here, we have a similar issue - the number of deaths in a county is dependent on the number of cases, and therefore the population.
 
 A measure of Coronavirus impact that removes the population effect is the percentage of cases resulting in death. I used this number to test against the health of counties.
@@ -59,12 +67,21 @@ A measure of Coronavirus impact that removes the population effect is the percen
 <iframe src="https://public.tableau.com/views/Covdpchlth/Covdpchlth?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
 <div align="center"><em>Percentage of Coronavirus cases resulting death in counties compared to county health index.</em></div>
 
+<br>
+
 There is no real relationship between the effect of Coronavirus and the health of a county. Coronavirus is affecting county populations similarly, regardless of their health. This is also illustrated when mapping Coronavirus effects across the nation.
 
 <iframe src="https://public.tableau.com/views/Covdpchlthmap/Covdpchlthmap?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
 <div align="center"><em>Map of Coronavirus effect in counties. The size of a point represents the number of Coronavirus cases resulting in death, and the color represents county health index. Counties not shown had no cases as of July 8, 2020</em></div>
 
 <br>
+<br>
+
+***
+
+## The focus is still on the individual
+
+
 
 **More on the Coronavirus**
 * [NY Times Coronavirus Vaccine Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
