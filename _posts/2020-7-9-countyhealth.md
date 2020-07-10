@@ -89,7 +89,16 @@ There is no real relationship between the effect of Coronavirus and the health o
 
 ## The focus is still on the individual
 
+This analysis reinforces the idea that the effect of the Coronavirus in our country depends on individual action. *Living in a healthy place can't protect us, but taking healthy actions can*. 
 
+<br>
+
+<p align="center">
+  <img src="{{ site.baseurl }}/images/ronaprevent.jpg" />
+</p>
+<div align="center"><em>Simple actions proven to prevent both spread and lethality of viruses</em></div>
+
+<br>
 
 **More on the Coronavirus**
 * [NY Times Coronavirus Vaccine Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
