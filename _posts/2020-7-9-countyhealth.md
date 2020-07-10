@@ -65,7 +65,7 @@ Another way to measure Coronavirus impact is to compare the number of deaths. He
 A measure of Coronavirus impact that removes the population effect is the percentage of cases resulting in death. I used this number to test against the health of counties.
 
 <iframe src="https://public.tableau.com/views/Covdpchlth/Covdpchlth?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
-<div align="center"><em>Percentage of Coronavirus cases resulting death in counties compared to county health index.</em></div>
+<div align="center"><em>Percentage of Coronavirus cases resulting in death in counties compared to county health index.</em></div>
 
 <br>
 
