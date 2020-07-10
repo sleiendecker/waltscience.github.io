@@ -89,7 +89,7 @@ There is no real relationship between the effect of Coronavirus and the health o
 
 ## The focus is still on the individual
 
-This analysis reinforces the idea that the effect of the Coronavirus in our country depends on individual action. *Living in a healthy place can't protect us, but taking healthy actions can*. 
+This analysis reinforces the idea that the effect of the Coronavirus in our country depends on individual action. **Living in a healthy place can't protect us, but taking healthy actions can**. 
 
 <br>
 
