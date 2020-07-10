@@ -16,7 +16,7 @@ Like me, you might have expected healthier counties in the U.S. to be less affec
 
 ***
 
-##How do you measure the health of a county? 
+## How do you measure the health of a county? 
 
 I relied on the [County Health Rankings Project at University of Wisconsin](https://www.countyhealthrankings.org) for guidance. They rank the health of counties within each state using a weighted model of health policies, factors, and outcomes.
 
@@ -41,7 +41,7 @@ The variables were reduced to two dimensions using Non-Metric Multidimensional S
 
 ***
 
-##Comparing the effect of Coronavirus vs. the health of a county
+## Comparing the effect of Coronavirus vs. the health of a county
 
 One way to look at the effect of Coronavirus in counties is to simply compare at the number of cases. However, the number of cases in an area is highly dependent on size of the population. In fact, about 80% of variation in the number of cases in a county can be explained by population size alone.
 
