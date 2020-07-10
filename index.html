@@ -5,14 +5,14 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-      
-     <a href="{{ post.url }}">
-     <div class="center-cropped" 
-       style="background-image: url({{ site.baseurl }}{{ post.image }});">
-     </div>
-     </a>
 
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+
+      <a href="{{ post.url }}">
+      <div class="center-cropped" 
+       style="background-image: url({{ site.baseurl }}{{ post.image }});">
+      </div>
+      </a>
 
       <div class="entry">
         {{ post.excerpt }} <br> 
