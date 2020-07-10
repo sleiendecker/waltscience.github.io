@@ -20,7 +20,6 @@ Like me, you might have expected healthier counties in the U.S. to be less affec
 
 I relied on the [County Health Rankings Project at University of Wisconsin](https://www.countyhealthrankings.org) for guidance. They rank the health of counties within each state using a weighted model of health policies, factors, and outcomes.
 
-![UW Model]({{ site.baseurl }}/images/uwmodel.jpg "UW County Health Model")
 <p align="center">
   <img src="{{ site.baseurl }}/images/uwmodel.jpg" />
 </p>
@@ -34,7 +33,9 @@ However, the output from their model are ranks of each county within each state.
 
 To fix this, I created a nation-wide county health index using 50 variables from their model, but skipping their ranks.
 
-![Variables]({{ site.baseurl }}/images/hlthvars.jpg "Variables in Index")
+<p align="center">
+  <img src="{{ site.baseurl }}/images/hlthvars.jpg" />
+</p>
 <div align="center"><em>Variables used to create a nation-wide county health index</em></div>
   
 The variables were reduced to two dimensions using Non-Metric Multidimensional Scaling. The first dimension was then scaled from zero to one to create a county health index.
