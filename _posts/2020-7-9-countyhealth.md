@@ -21,6 +21,9 @@ Like me, you might have expected healthier counties in the U.S. to be less affec
 I relied on the [County Health Rankings Project at University of Wisconsin](https://www.countyhealthrankings.org) for guidance. They rank the health of counties within each state using a weighted model of health policies, factors, and outcomes.
 
 ![UW Model]({{ site.baseurl }}/images/uwmodel.jpg "UW County Health Model")
+<p align="center">
+  <img src="{{ site.baseurl }}/images/uwmodel.jpg" />
+</p>
 <div align="center"><em>University of Wisconsin County Health Model Framework</em></div>
 
 However, the output from their model are ranks of each county within each state. That presents two problems for nationwide comparison:
