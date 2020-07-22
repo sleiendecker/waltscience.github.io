@@ -7,8 +7,6 @@ excerpt: No, the virus is affecting counties in a remarkably similar way.
 time: 2 minute read
 title: Does living in a healthy county protect you from Coronavirus?
 ---
-**No, the virus is affecting counties in a remarkably similar way.**
-
 Like me, you might have expected healthier counties in the U.S. to be less affected by the Coronavirus. We know [existing medical problems in individuals contribute to the severity of the disease](https://www.nytimes.com/2020/07/08/health/coronavirus-risk-factors.html). So, its not unreasonable to guess that same effect would occur in county populations. 
 
 <br>
