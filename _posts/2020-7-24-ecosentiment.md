@@ -26,7 +26,7 @@ If you have ever been on the academic job market, you know how demoralizing it i
 
 The vast majority of PhDs don't end up as tenure-track faculty. One survey report from the Royal Society in the UK estimated [about 0.45% of UK science PhDs ended up as professors](https://royalsociety.org/~/media/royal_society_content/policy/publications/2010/4294970126.pdf).
 
-The low success rate of PhDs on the academic job market is a due to a decades-long increase supply of PhDs and a relatively flat number of tenure-track faculty jobs.
+The low success rate of PhDs on the academic job market is a due to a decades-long increase in supply of PhDs and a relatively flat number of tenure-track faculty jobs.
 
 <br>
 
