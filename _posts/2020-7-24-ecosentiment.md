@@ -101,7 +101,7 @@ Speaking from both my own experience and the experiences of my friends and colle
 
 For many, imagining ending their academic journey outside of the academy makes them feel like the sacrifices they made were done in vain. Even worse, settling for anything less than a professorship requires giving up, at least, a portion of your [identity](https://www.insidehighered.com/advice/2017/01/30/academics-can-and-should-stop-equating-their-identity-work-essay). 
 
-**These personal barriers, the ones that keep people fighting for tenure-track jobs, may be the only reason there is *any* positive sentiment on the academic job market**.
+**These personal barriers, the ones that keep people fighting for tenure-track jobs, may be the only reason there is *any* positive sentiment for the academic job market**.
 
 <br>
 <br>
