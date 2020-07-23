@@ -63,7 +63,7 @@ Separately, the sentiment in the general discussion and venting sections of the 
 
 <br>
 
-<iframe src="https://public.tableau.com/views/ecosentiment/Sheet2?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
+<iframe src="https://public.tableau.com/views/netsentiment/netsentiment?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
 <div align="center"><em>Net sentiment in general discussion and venting threads of ecology job wikis.</em></div>
 
 <br>
