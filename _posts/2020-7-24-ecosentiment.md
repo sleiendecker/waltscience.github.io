@@ -91,7 +91,7 @@ Others have proposed that [academia shares many characteristics with cults](http
 There are signs that academics are starting to realize just how improbable becoming a professor is. One major sign - for the first time ever, [the portion of STEM PhDs working in industry is equal to the portion working in academics](https://www.sciencemag.org/careers/2019/03/first-us-private-sector-employs-nearly-many-phds-schools-do). 
 
 Another sign that academics are recognizing the absurdity of the academic job market is the beginning of graduate-level training specifically designed for non-academic jobs. 
-Considering 8% or fewer of PhDs end up in tenure-track positions, **training for careers outside of academia should be the norm**. 
+Considering so few PhDs end up in tenure-track positions, **training for careers outside of academia should be the norm**. 
 
 Speaking from both my own experience and the experiences of my friends and colleagues, there are two major barriers to leaving the academic job market:
 
@@ -101,7 +101,7 @@ Speaking from both my own experience and the experiences of my friends and colle
 
 For many, imagining ending their academic journey outside of the academy makes them feel like the sacrifices they made were done in vain. Even worse, settling for anything less than a professorship requires giving up, at least, a portion of your [identity](https://www.insidehighered.com/advice/2017/01/30/academics-can-and-should-stop-equating-their-identity-work-essay). 
 
-**These personal barriers, the ones that keep people fighting for tenure-track jobs, may be the only reason there is any positive sentiment left on the academic job market**.
+**These personal barriers, the ones that keep people fighting for tenure-track jobs, may be the only reason there is *any* positive sentiment on the academic job market**.
 
 <br>
 <br>
