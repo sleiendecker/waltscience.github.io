@@ -13,7 +13,7 @@ If you have ever been on the academic job market, you know how demoralizing it i
  
  2. Now imagine never hearing from any of those schools again, except when someone you know gets interviewed for a position you applied for.
 
-[Applying to academic jobs is a heart-wrenching slog](https://www.washingtonpost.com/). And most often, it leads nowhere.
+[Applying to academic jobs is a heart-wrenching slog](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiMz9XM2OLqAhWXQs0KHWhgCQYQFjACegQIAxAB&url=https%3A%2F%2Fwww.washingtonpost.com%2Foutlook%2F2019%2F04%2F15%2Fjob-market-academics-is-nightmare-heres-one-way-fix-it%2F&usg=AOvVaw2dt-SSfHG5ZI6LD-5xQnqA). And most often, it leads nowhere.
 
 <br>
 
@@ -26,7 +26,7 @@ If you have ever been on the academic job market, you know how demoralizing it i
 
 The vast majority of PhDs don't end up as tenure-track faculty. One survey report from the Royal Society in the UK estimated [about 0.45% of UK sciences PhDs ended up as professors](https://royalsociety.org/~/media/royal_society_content/policy/publications/2010/4294970126.pdf).
 
-The low success rate of PhDs on the academic job market is a due to a decades-long increase supply of PhDs and a declining number of tenure-track faculty jobs.
+The low success rate of PhDs on the academic job market is a due to a decades-long increase supply of PhDs and a relatively flat number of tenure-track faculty jobs.
 
 <br>
 
