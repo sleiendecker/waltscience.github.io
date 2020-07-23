@@ -15,6 +15,8 @@ If you have ever been on the academic job market, you know how demoralizing it i
 
 [Applying to academic jobs is a heart-wrenching slog](https://www.washingtonpost.com/). And most often, it leads nowhere.
 
+<br>
+
 ![Biology PhD pipeline]({{ site.baseurl }}/images/pipeline.jpg "Biology PhD pipeline")
 <div align="center"><em>Pipeline diagram showing the fate of biology PhDs. In this model, less than 8% of biology PhDs will end up as tenure-track faculty.</em></div>
 
@@ -55,6 +57,8 @@ To test whether sentiment has changed through time, I compared the net sentiment
 
 Separately, the sentiment in the general discussion and venting sections of the wiki don't show any trend. But taken together, they reveal a slight uptick in positive sentiment over the past decade.
 
+<br>
+
 <iframe src="https://public.tableau.com/views/ecosentiment/Sheet2?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
 <div align="center"><em>Net sentiment in general discussion and venting threads of ecology job wikis.</em></div>
 
@@ -91,7 +95,9 @@ Speaking from both my own experience and the experiences of my friends and colle
  
  2. Attending school and working tirelessly on research most of your life becomes your most distinguishing characteristic. 
 
-For many, imagining ending their academic journey outside of the academy makes them feel like the sacrifices they made were done in vain. Even worse, settling for anything less than a professorship requires giving up a portion of your [identity](https://www.insidehighered.com/advice/2017/01/30/academics-can-and-should-stop-equating-their-identity-work-essay).
+For many, imagining ending their academic journey outside of the academy makes them feel like the sacrifices they made were done in vain. Even worse, settling for anything less than a professorship requires giving up a portion of your [identity](https://www.insidehighered.com/advice/2017/01/30/academics-can-and-should-stop-equating-their-identity-work-essay). 
+
+These personal barriers, the ones that keep people fighting for tenure-track jobs, may be the only reason there is any positive sentiment left on the academic job market.
 
 <br>
 <br>
