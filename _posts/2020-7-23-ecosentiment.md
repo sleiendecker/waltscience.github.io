@@ -17,7 +17,9 @@ If you have ever been on the academic job market, you know how demoralizing it i
 
 <br>
 
-![Biology PhD pipeline]({{ site.baseurl }}/images/pipeline.jpg "Biology PhD pipeline")
+<p align="center">
+  <img src="{{ site.baseurl }}/images/pipeline.jpg" />
+</p>
 <div align="center"><em>Pipeline diagram showing the fate of biology PhDs. In this model, less than 8% of biology PhDs will end up as tenure-track faculty.</em></div>
 
 <br>
@@ -28,7 +30,9 @@ The low success rate of PhDs on the academic job market is a due to a decades-lo
 
 <br>
 
-![PhDs vs. jobs]({{ site.baseurl }}/images/phdvsjobs.jpg "PhDs vs. jobs")
+<p align="center">
+  <img src="{{ site.baseurl }}/images/phdvsjobs.jpg" />
+</p>
 <div align="center"><em>Life and health science PhDs employed by sector, and the number of PhDs awarded in those disciplines over the same time period.</em></div>
 
 <br>
