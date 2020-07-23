@@ -48,7 +48,7 @@ Given these odds, and the ever-increasing length of job application packets, I e
 
 I chose to measure sentiment in my own field of ecology. Since 2009, ecology has had a public wiki that serves as a job and discussion board for ecologists.
 
-The wiki has two discussion sections, general discussion and venting. The general discussion is a place to ask and answer any questions about the job search process. Venting is a place to commiserate about the any aspect of the academic job search.
+The wiki has two discussion sections, general discussion and venting. The general discussion is a place to ask and answer any questions about the job search process. Venting is a place to commiserate about any aspect of the academic job search.
 
 To test whether sentiment has changed through time, I compared the net sentiment of each thread in each discussion section for all the ecology wikis from 2009-2019. I used the [AFINN Sentiment Lexicon](https://rdrr.io/cran/textdata/man/lexicon_afinn.html), which ranks the sentiment of words from -5 to 5. 
 
