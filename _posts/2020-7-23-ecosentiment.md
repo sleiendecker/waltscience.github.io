@@ -77,7 +77,7 @@ The graph shows **sentiment became more positive among academic job seekers usin
 
 ## What could explain the increase in positive sentiment?
 
-The academic job market was likely hit hard in the late 2000's and early 2010's by the great recession of 2008. Perhaps, things have actually been getting better since 2009 and the increase in positive sentiment reflects that?
+The academic job market was likely hit hard in the late 2000's and early 2010's by the great recession of 2008. Perhaps, the job search process has gotten better since 2009 and the increase in positive sentiment reflects that?
 
 Others have proposed that [academia shares many characteristics with cults](https://www.washingtonpost.com/outlook/academia-is-a-cult/2018/10/31/eea787a0-bd08-11e8-b7d2-0773aa1e33da_story.html). Maybe the academic cult leaders have gotten better at indoctrinating their disciples? I am joking, of course. *Sort of*. 
 
