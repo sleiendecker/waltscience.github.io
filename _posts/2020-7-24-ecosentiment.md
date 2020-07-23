@@ -86,7 +86,7 @@ Others have proposed that [academia shares many characteristics with cults](http
 
 ***
 
-## Why are so many people in the academic job market?
+## Why are so many people on the academic job market?
 
 There are signs that academics are starting to realize just how improbable becoming a professor is. One major sign - for the first time ever, [the portion of STEM PhDs working in industry is equal to the portion working in academics](https://www.sciencemag.org/careers/2019/03/first-us-private-sector-employs-nearly-many-phds-schools-do). 
 
