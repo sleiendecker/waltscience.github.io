@@ -7,7 +7,7 @@ excerpt: Yes, but not in the direction you might think.
 time: 3 minute read
 title: Is sentiment among academic job seekers in ecology changing?
 ---
-If you have ever been on the academic job market, you know how demoralizing it is. If you haven't had the pleasure, I can paint you a quick picture for you in two steps: 
+If you have ever been on the academic job market, you know how demoralizing it is. If you haven't had the pleasure, I can paint you a quick picture in two steps: 
 
  1. Imagine summarizing your life's work in 50+ unique ways each year in the hope that you are good enough in every possible way to get an interview at *any* school that might remotely seem a good fit for your work. 
  
