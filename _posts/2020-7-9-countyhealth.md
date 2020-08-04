@@ -10,7 +10,6 @@ title: Does living in a healthy county protect you from Coronavirus?
 Like me, you might have expected healthier counties in the U.S. to be less affected by the Coronavirus. We know [existing medical problems in individuals contribute to the severity of the disease](https://www.nytimes.com/2020/07/08/health/coronavirus-risk-factors.html). So, its not unreasonable to guess that same effect would occur in county populations. 
 
 <br>
-<br>
 
 ***
 
@@ -47,7 +46,6 @@ To fix this, I created a nation-wide county health index using 50 variables from
 The variables were reduced to two dimensions using Non-Metric Multidimensional Scaling. The first dimension was then scaled from zero to one to create a county health index.
 
 <br>
-<br>
 
 ***
 
@@ -81,7 +79,6 @@ There is no real relationship between the effect of Coronavirus and the health o
 <div align="center"><em>Map of Coronavirus effect in counties. The size of a point represents the number of Coronavirus cases resulting in death, and the color represents county health index. Counties not shown had no cases as of July 8, 2020</em></div>
 
 <br>
-<br>
 
 ***
 
@@ -102,7 +99,6 @@ This analysis reinforces the idea that the effect of the Coronavirus in our coun
 * [NY Times Coronavirus Vaccine Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
 * [Information is Beautiful Coronavirus Datapack](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/)
 
-<br>
 <br>
 
 ***
