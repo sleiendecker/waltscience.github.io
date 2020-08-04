@@ -83,7 +83,7 @@ Unfortunately, retail data isn't very useful for forecasting future GDP in a pan
 
 Some economists have argued [enhanced unemployment benefits and social safety net programs kept the GDP from falling even further in the second quarter](https://www.cnbc.com/2020/07/10/unemployment-boosts-will-help-recovery-more-than-new-stimulus-checks.html). Many of those benefits expired on July 31st. 
 
-Others argue [new funding should focus on the states and municipalities](https://www.forbes.com/sites/lizfarmer/2020/07/30/bailout-stimulus-federal-relief-recovery/#6fbc9e895678) facing massive revenue shortfalls. Yet, there seems to be little desire to grant federal stimulus money to states.
+Others argue [new funding should focus on the states and municipalities](https://www.forbes.com/sites/lizfarmer/2020/07/30/bailout-stimulus-federal-relief-recovery/#6fbc9e895678) facing enormous revenue shortfalls. Yet, there seems to be little desire to grant federal stimulus money to states.
 
 In any case, [an unprecedented, unheard-of, unimaginable portion of our economy is being kept afloat right now by a firehose of U.S. aid aimed at corporations and citizens](https://www.barrons.com/articles/for-the-first-time-ever-uncle-sams-aid-to-u-s-tops-quarterly-gdp-51596244795). As the government begins to close the tap, *the economy will start to sink*.
 
