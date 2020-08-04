@@ -15,7 +15,6 @@ The people that actually elect a president are called electors. All the electors
 <div align="center"><em>Electoral college votes by state</em></div>
 
 <br>
-<br>
 
 ***
 
@@ -32,7 +31,6 @@ The resulting number is the individual voting power for each state compared to t
 
 The map shows people in certain states have much more power to elect a president. **One vote in Wyoming is about 260% more powerful than the average voter. But one vote in Florida only has 68% the power of an average vote.**
 
-<br>
 <br>
 
 ***
@@ -56,7 +54,6 @@ Hawaii and West Virginia are the states with the lowest voter turnout in the nat
 But your vote does matter Brittany, *it does*. It matters more than mine and more than most Americans.
 
 <br>
-<br>
 
 ***
 
@@ -72,7 +69,6 @@ One way to answer this question is to count the times the Electoral College has 
 
 Among 45 presidents, that means about **1 out of every 10 presidents was elected by losing the popular vote but winning the most electors**.
 
-<br>
 <br>
 
 ***
@@ -91,7 +87,6 @@ It might also depend on what year you were asked.
 * [Five common misconceptions about the Electoral College](https://www.theatlantic.com/ideas/archive/2019/11/five-common-misconceptions-about-electoral-college/602596/)
 * [Supreme Court weighs whether Electoral College members must stick to state's Popular Vote](https://www.wsj.com/articles/supreme-court-to-weigh-whether-electoral-college-members-must-stick-to-states-popular-vote-11589362201)
 
-<br>
 <br>
 
 ***
