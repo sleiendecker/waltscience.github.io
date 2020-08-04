@@ -21,7 +21,6 @@ I got a little curious about this while I was unboxing my brand-new pasta machin
 <div align="center"><em>Pasta machine cutting some fettuccini. Or maybe its tagliatelle? Lasagnette?</em></div>
 
 <br>
-<br>
 
 ***
 
@@ -31,7 +30,6 @@ I grabbed data from the U.S. Census Bureau's Monthly Retail Trade database. This
 
 I measured differences in projected vs. actual spending in each retail sector since the end of February, 2020. Projected spending was estimated using linear models of spending from November 2019 through February 2020. Then, I calculated the cumulative difference in projected vs. annual spending from March through June in each retail sector. 
 
-<br>
 <br>
 
 ***
@@ -56,7 +54,6 @@ But where have we spent less? **Clothing and accessories. This sector decreased 
 Aside from these two giant dips in spending, we spent less in restaurants and bars, department stores, health stores, gas stations, and on furniture. 
 
 <br>
-<br>
 
 ***
 
@@ -72,7 +69,6 @@ Simply looking at the data might actually be the best way to undertand how massi
 
 <iframe src="https://waltscience.shinyapps.io/shinymrt/" width="100%" height="1150px"></iframe>
 
-<br>
 <br>
 
 ***
@@ -96,7 +92,6 @@ In any case, [an unprecedented, unheard-of, unimaginable portion of our economy 
 
 * [Ignore GDP Plunging 33%. Pay Attention To The 9.5% Decline](https://www.forbes.com/sites/chuckjones/2020/07/31/ignore-gdp-plunging-33-pay-attention-to-the-95-decline/#635c4c9f2640)
 
-<br>
 <br>
 
 ***
