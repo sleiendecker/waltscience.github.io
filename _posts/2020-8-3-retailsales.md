@@ -29,7 +29,7 @@ I got a little curious about this while I was unboxing my brand-new pasta machin
 
 I grabbed data from the U.S. Census Bureau's Monthly Retail Trade database. This database includes monthly retail sales, broken down by retail sector.
 
-I calculated differences in projected vs. actual spending in each retail sector since March, 2020. Projected spending was estimated using linear models of spending from November 2019 through February 2020. The measurements are the cumulative difference in projected vs. annual spending from March through June in each retail sector. 
+I calculated differences in projected vs. actual spending in each retail sector since the end of February, 2020. Projected spending was estimated using linear models of spending from November 2019 through February 2020. The measurements are the cumulative difference in projected vs. annual spending from March through June in each retail sector. 
 
 <br>
 <br>
