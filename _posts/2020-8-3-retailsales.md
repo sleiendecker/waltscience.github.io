@@ -66,7 +66,7 @@ I thought about how to convey the magnitude of changes in spending. A 6,000%, 5 
 
 Simply looking at the data might actually be the best way to undertand how massive these spending changes are. So I have made an interactive graph to explore retail sales data since 1992. 
 
-**Click through some of the sectors and play with the year slider to get a feel for the unprecedented change in the economy**.
+**Click through some of the sectors and play with the year slider on the graph below to get a feel for the unprecedented change in the economy**.
 
 <br>
 
