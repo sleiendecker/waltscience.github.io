@@ -90,12 +90,10 @@ In any case, [an unprecedented, unheard-of, unimaginable portion of our economy 
 **Until then, I will continue perfecting homemade pasta - at least *it* floats when it's done cooking**.
 
 <br>
-<br>
-
-***
 
 **More opinion on the GDP**
 * [Did a third of the economy really vanish in just three months?](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=newssearch&cd=&ved=0ahUKEwj6zp2R0oDrAhXSKM0KHeJ4BuQ4ChDF9AEINDAB&url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2020%2F07%2F30%2Fdid-third-economy-really-vanish-just-three-months%2F&usg=AOvVaw2Ox_VV98LJQnNtomgiq_0Q)
+
 * [Ignore GDP Plunging 33%. Pay Attention To The 9.5% Decline](https://www.forbes.com/sites/chuckjones/2020/07/31/ignore-gdp-plunging-33-pay-attention-to-the-95-decline/#635c4c9f2640)
 
 <br>
