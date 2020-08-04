@@ -2,8 +2,8 @@
 layout: post
 image: /images/pasta.jpg
 page.image: /images/pasta.jpg
-summary: Yes, more groceries, online shopping, and maybe pasta machines.
-excerpt: Yes, more groceries, online shopping, and maybe pasta machines.
+summary: Yes, we spend more on groceries, online shopping, and maybe pasta machines.
+excerpt: Yes, we spend more on groceries, online shopping, and maybe pasta machines.
 time: 3 minute read
 title: As our economy hits an unprecedented low, are we changing the way we spend?
 ---
