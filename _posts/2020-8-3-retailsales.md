@@ -68,7 +68,7 @@ Just looking at the data might be the best way to see how unprecedented these sp
 
 <br>
 
-<iframe src="https://waltscience.shinyapps.io/shinymrt/" width="100%" height="1000px"></iframe>
+<iframe src="https://waltscience.shinyapps.io/shinymrt/" width="100%" height="1200px"></iframe>
 
 <br>
 
