@@ -2,10 +2,10 @@
 layout: post
 image: /images/pasta.jpg
 page.image: /images/pasta.jpg
-summary: Food and drinks, online shopping, and maybe pasta machines.
-excerpt: Food and drinks, online shopping, and maybe pasta machines.
+summary: Yes, more groceries, online shopping, and maybe pasta machines.
+excerpt: Yes, more groceries, online shopping, and maybe pasta machines.
 time: 3 minute read
-title: As GDP hits an unprecedented low, where do we spend our money these days?
+title: As our economy hits an unprecedented low, are we changing the way we spend?
 ---
 The [U.S. Gross Domestic Product (GDP)](https://en.wikipedia.org/wiki/Gross_domestic_product) dropped by 33% in the second quarter of 2020. The drop was the most drastic ever. **Seriously**. [Ever](https://www.npr.org/sections/coronavirus-live-updates/2020/07/30/896714437/3-months-of-hell-u-s-economys-worst-quarter-ever).
 
