@@ -38,7 +38,7 @@ I calculated differences in projected vs. actual spending in each retail sector 
 
 ## Where are we spending our money?
 
-My hunch that I might not be the only person upping my culinary game was right. Food and beverage store sales have increased by about 8,800% since the end of February. That is an increase in sales of about 7.5 billion dollars.
+My hunch that I might not be the only person upping my culinary game was right. **Food and beverage store sales have increased by about 8,800% since the end of February. That is an increase in sales of about 7.5 billion dollars.**
 
 That also might explain the slew of home-streaming cooks - like the amazing baking videos from [Christina Tosi on Instagram](https://www.instagram.com/christinatosi/?hl=en). 
 
@@ -51,7 +51,7 @@ That also might explain the slew of home-streaming cooks - like the amazing baki
 
 In addition to food and drinks, we are also spending more online, on cars, hobbies and books, and building materials and garden supplies.
 
-But where have we spent less? Clothing and accessories. This sector decreased by more than 6,000%, dropping about 5 billion dollars in sales since the end of February. Second to clothing, electronics and appliance store sales declined by 4,800%, or 1 billion dollars.
+But where have we spent less? **Clothing and accessories. This sector decreased by more than 6,000%, dropping about 5 billion dollars in sales since the end of February.** Second to clothing, electronics and appliance store sales declined by 4,800%, or 1 billion dollars.
 
 Aside from these two giant dips in spending, we spent less in restaurants and bars, department stores, health stores, gas stations, and on furniture. 
 
