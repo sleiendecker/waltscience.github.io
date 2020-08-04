@@ -7,7 +7,7 @@ excerpt: Food and drinks, online shopping, and maybe pasta machines.
 time: 3 minute read
 title: As GDP hits an unprecedented low, where do we spend our money these days?
 ---
-The [U.S. Gross Domestic Product (GDP)](https://en.wikipedia.org/wiki/Gross_domestic_product) dropped by 33% in the second quarter of 2020. The drop was the most drastic ever. **Seriously.** [Ever](https://www.npr.org/sections/coronavirus-live-updates/2020/07/30/896714437/3-months-of-hell-u-s-economys-worst-quarter-ever).
+The [U.S. Gross Domestic Product (GDP)](https://en.wikipedia.org/wiki/Gross_domestic_product) dropped by 33% in the second quarter of 2020. The drop was the most drastic ever. **Seriously**. [Ever](https://www.npr.org/sections/coronavirus-live-updates/2020/07/30/896714437/3-months-of-hell-u-s-economys-worst-quarter-ever).
 
 How much we spend on goods and services is a huge factor in calculating GDP. It might be obvious that Americans are spending less money on restaurants and bars. But are we spending that money somewhere else?
 
