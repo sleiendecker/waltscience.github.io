@@ -38,7 +38,7 @@ I calculated differences in projected vs. actual spending in each retail sector 
 
 ## Where are we spending our money?
 
-My hunch that I might not be the only person upping my culinary game was right. **Food and beverage store sales have increased by about 8,800% since the end of February. That is an increase in sales of about 7.5 billion dollars.**
+My hunch that I might not be the only person upping my culinary game was right. **Food and beverage store sales have increased by about 8,800% since the end of February - an increase of about 7.5 billion dollars.**
 
 That also might explain the slew of home-streaming cooks - like the amazing baking videos from [Christina Tosi on Instagram](https://www.instagram.com/christinatosi/?hl=en). 
 
