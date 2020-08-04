@@ -62,7 +62,7 @@ Aside from these two giant dips in spending, we spent less in restaurants and ba
 
 ## How massive are the changes in spending?
 
-I thought about how to convey the magnitude of changes in spending. A 6,000%, 5 billion dollar decline in clothing spending - how big is that? I am not sure the numbers really convey what is going on here.
+I thought about how to convey the magnitude of changes in spending. A 6,000%, 5 billion dollar decline in clothing spending - how big is that? I am not sure the numbers alone can convince us of what is happening right now in the economy.
 
 Just looking at the data might be the best way to see how unprecedented these spending changes are. So I have made an interactive graph to explore retail sales data since 1992. Click through some of the sectors and change the years to get a feel for how unprecedented the changes in spending are.
 
