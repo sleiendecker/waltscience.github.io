@@ -77,7 +77,7 @@ Just looking at the data might be the best way to see how unprecedented these sp
 
 ## What does the future hold for the GDP?
 
-Unfortunately, retail data isn't very useful for forecasting future GDP in a pandemic. But even without forecasting, the outlook isn't great.
+Unfortunately, retail data isn't very useful for forecasting future GDP in a pandemic. But we don't need forecasting to know the outlook isn't great.
 
 Some economists have argued [enhanced unemployment benefits and social safety net programs kept the GDP from falling even further in the second quarter](https://www.cnbc.com/2020/07/10/unemployment-boosts-will-help-recovery-more-than-new-stimulus-checks.html). Many of those benefits expired on July 31st. 
 
