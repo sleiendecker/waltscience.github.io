@@ -81,7 +81,7 @@ Others argue [new funding should focus on the states and municipalities](https:/
 
 In any case, [an unprecedented, unheard-of, unimaginable portion of our economy is being kept afloat right now by a firehose of U.S. aid aimed at corporations and citizens](https://www.barrons.com/articles/for-the-first-time-ever-uncle-sams-aid-to-u-s-tops-quarterly-gdp-51596244795). As the government begins to close the tap, *the economy will start to sink*.
 
-**Until then, I'll keep trying to perfect homemade pasta - at least *it* floats when it's done cooking**.
+**Until then, I'll keep trying to perfect homemade pasta - at least *it* floats when its done cooking**.
 
 <br>
 
