@@ -69,6 +69,7 @@ Simply looking at the data might actually be the best way to undertand how massi
 
 <iframe src="https://waltscience.shinyapps.io/shinymrt/" width="100%" height="730px"></iframe>
 
+<br>
 ***
 
 ## What does the future hold for the GDP?
