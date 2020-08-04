@@ -71,24 +71,19 @@ Just looking at the data might be the best way to see how unprecedented these sp
 <iframe src="https://waltscience.shinyapps.io/shinymrt/" width="100%" height="1150px"></iframe>
 
 <br>
-
-When you see the change in the context of 28 years of data, it really stands out. 
-
-
-<br>
 <br>
 
 ***
 
 ## What does the future hold for the GDP?
 
-Unfortunately, retail data isn't very useful for forecasting in a pandemic. But even without forecasting, the outlook isn't great.
+Unfortunately, retail data isn't very useful for forecasting future GDP in a pandemic. But even without forecasting, the outlook isn't great.
 
 Some economists have argued [enhanced unemployment benefits and social safety net programs kept the GDP from falling even further in the second quarter](https://www.cnbc.com/2020/07/10/unemployment-boosts-will-help-recovery-more-than-new-stimulus-checks.html). Many of those benefits expired on July 31st. 
 
 Others argue [new funding should focus on states and municipalities](https://www.forbes.com/sites/lizfarmer/2020/07/30/bailout-stimulus-federal-relief-recovery/#6fbc9e895678), which are face massive revenue shortfalls. Yet, there seems to be little desire to grant federal stimulus money to states.
 
-In any case, [an unprecedented, unheard-of, unimaginable portion of our economy is being kept afloat right now by a firehose of U.S. aid to corporations and citizens](https://www.barrons.com/articles/for-the-first-time-ever-uncle-sams-aid-to-u-s-tops-quarterly-gdp-51596244795). As the government begins to close the tap, we *will** sink.
+In any case, [an unprecedented, unheard-of, unimaginable portion of our economy is being kept afloat right now by a firehose of U.S. aid to corporations and citizens](https://www.barrons.com/articles/for-the-first-time-ever-uncle-sams-aid-to-u-s-tops-quarterly-gdp-51596244795). As the government begins to close the tap, *we will sink*.
 
 <br>
 <br>
