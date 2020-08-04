@@ -40,7 +40,6 @@ The low success rate of PhDs on the academic job market is a due to a decades-lo
 Given these odds, and the ever-increasing length of job application packets, I expected the sentiment among academic job seekers to become more negative through time.
 
 <br>
-<br>
 
 ***
 
@@ -52,7 +51,6 @@ The wiki has two discussion sections, general discussion and venting. The genera
 
 To test whether sentiment has changed through time, I compared the net sentiment of each thread in each discussion section for all the ecology wikis from 2009-2019. I used the [AFINN Sentiment Lexicon](https://rdrr.io/cran/textdata/man/lexicon_afinn.html), which ranks the sentiment of words from -5 to 5. 
 
-<br>
 <br>
 
 ***
@@ -71,7 +69,6 @@ Separately, the sentiment in the general discussion and venting sections of the 
 The graph shows **sentiment became more positive among academic job seekers using the ecology wiki since 2009**.
 
 <br>
-<br>
 
 ***
 
@@ -81,7 +78,6 @@ The academic job market was likely hit hard in the late 2000's and early 2010's 
 
 Others have proposed that [academia shares many characteristics with cults](https://www.washingtonpost.com/outlook/academia-is-a-cult/2018/10/31/eea787a0-bd08-11e8-b7d2-0773aa1e33da_story.html). Maybe the academic cult leaders have gotten better at indoctrinating their disciples? I am joking, of course. *Sort of*. 
 
-<br>
 <br>
 
 ***
@@ -103,7 +99,6 @@ For many, imagining ending their academic journey outside of the academy makes t
 
 **These personal barriers, the ones that keep people fighting for tenure-track jobs, may be the only reason there is *any* positive sentiment for the academic job market**.
 
-<br>
 <br>
 
 ***
