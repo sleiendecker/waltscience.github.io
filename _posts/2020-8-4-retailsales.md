@@ -45,7 +45,7 @@ Our new focus on cooking might also explain the rise in chefs streaming from hom
 <br>
 
 <iframe src="https://public.tableau.com/views/pctchangesales/Sheet1?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
-<div align="center"><em>Percent difference in projected vs actual spending in retail sectors since February 2020. Hover, click, or tap on bars to see differences in dollars spent. Note to mobile users - turn your device sideways for a better view.e</em></div>
+<div align="center"><em>Percent difference in projected vs actual spending in retail sectors since February 2020. Hover, click, or tap on bars to see differences in dollars spent. Note to mobile users - turn your device sideways for a better view.</em></div>
 
 <br>
 
