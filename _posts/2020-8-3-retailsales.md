@@ -64,7 +64,7 @@ Aside from these two giant dips in spending, we spent less in restaurants and ba
 
 I thought about how to convey the magnitude of changes in spending. A 6,000%, 5 billion dollar decline in clothing spending - how big is that? I am not sure the numbers really convey what is going on here.
 
-Just looking at the data might be the best way to see how unprecedented these spending changes are. So I have made an interactive graph for you to explore retail sales data since 1992.
+Just looking at the data might be the best way to see how unprecedented these spending changes are. So I have made an interactive graph to explore retail sales data since 1992. Click through some of the sectors and change the years to get a feel for how unprecedented the changes in spending are.
 
 <br>
 
@@ -72,12 +72,31 @@ Just looking at the data might be the best way to see how unprecedented these sp
 
 <br>
 
-Click through some of the sectors and change the years to get a feel for how unprecedented the changes in spending are. 
+When you see the change in the context of 28 years of data, it really stands out. 
+
 
 <br>
+<br>
 
-**More on the GDP**
-* [For the First Time Ever, Uncle Sam’s Aid to U.S. Tops Quarterly GDP](https://www.barrons.com/articles/for-the-first-time-ever-uncle-sams-aid-to-u-s-tops-quarterly-gdp-51596244795)
+***
+
+## What does the future hold for the GDP?
+
+Unfortunately, retail data isn't very useful for forecasting in a pandemic. But even without forecasting, the outlook isn't great.
+
+Some economists have argued [enhanced unemployment benefits and social safety net programs kept the GDP from falling even further in the second quarter](https://www.cnbc.com/2020/07/10/unemployment-boosts-will-help-recovery-more-than-new-stimulus-checks.html). Many of those benefits expired on July 31st. 
+
+Others argue [new funding should focus on states and municipalities](https://www.forbes.com/sites/lizfarmer/2020/07/30/bailout-stimulus-federal-relief-recovery/#6fbc9e895678), which are face massive revenue shortfalls. Yet, there seems to be little desire to grant federal stimulus money to states.
+
+In any case, [an unprecedented, unheard-of, unimaginable portion of our economy is being kept afloat right now by a firehose of U.S. aid to corporations and citizens](https://www.barrons.com/articles/for-the-first-time-ever-uncle-sams-aid-to-u-s-tops-quarterly-gdp-51596244795). As the government begins to close the tap, we *will** sink.
+
+<br>
+<br>
+
+***
+
+**More opinion on the GDP**
+* [Did a third of the economy really vanish in just three months?](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=newssearch&cd=&ved=0ahUKEwj6zp2R0oDrAhXSKM0KHeJ4BuQ4ChDF9AEINDAB&url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2020%2F07%2F30%2Fdid-third-economy-really-vanish-just-three-months%2F&usg=AOvVaw2Ox_VV98LJQnNtomgiq_0Q)
 * [Ignore GDP Plunging 33%. Pay Attention To The 9.5% Decline](https://www.forbes.com/sites/chuckjones/2020/07/31/ignore-gdp-plunging-33-pay-attention-to-the-95-decline/#635c4c9f2640)
 
 <br>
