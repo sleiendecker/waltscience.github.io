@@ -29,7 +29,7 @@ I got a little curious about this while I was unboxing my brand-new pasta machin
 
 I grabbed data from the U.S. Census Bureau's Monthly Retail Trade database. This database includes monthly retail sales, broken down by retail sector.
 
-I calculated differences in projected vs. actual spending in each retail sector since the end of February, 2020. Projected spending was estimated using linear models of spending from November 2019 through February 2020. Then, I cumulative difference in projected vs. annual spending from March through June in each retail sector. 
+I measured differences in projected vs. actual spending in each retail sector since the end of February, 2020. Projected spending was estimated using linear models of spending from November 2019 through February 2020. Then, I calculated the cumulative difference in projected vs. annual spending from March through June in each retail sector. 
 
 <br>
 <br>
@@ -87,7 +87,7 @@ Others argue [new funding should focus on the states and municipalities](https:/
 
 In any case, [an unprecedented, unheard-of, unimaginable portion of our economy is being kept afloat right now by a firehose of U.S. aid aimed at corporations and citizens](https://www.barrons.com/articles/for-the-first-time-ever-uncle-sams-aid-to-u-s-tops-quarterly-gdp-51596244795). As the government begins to close the tap, *the economy will start to sink*.
 
-Until then, I will be perfecting homemade pasta - when it's done coking, it floats.
+Until then, I will be perfecting homemade pasta - at least *it* floats when it's done cooking, it floats.
 
 <br>
 <br>
