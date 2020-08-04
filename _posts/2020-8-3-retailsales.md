@@ -18,7 +18,7 @@ I got a little curious about this while I was unboxing my brand-new pasta machin
 <p align="center">
   <img src="{{ site.baseurl }}/images/pasta.jpg" />
 </p>
-<div align="center"><em>Pasta machine cutting some fettuccini. Or maybe its lasagnette? Tagliatelle? There are so many names for pasta!</em></div>
+<div align="center"><em>Pasta machine cutting some fettuccini. Or maybe its tagliatelle? Lasagnette?</em></div>
 
 <br>
 <br>
