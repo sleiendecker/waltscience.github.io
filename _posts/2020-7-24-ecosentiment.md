@@ -6,6 +6,7 @@ summary: Yes, but not in the direction you might think.
 excerpt: Yes, but not in the direction you might think.
 time: 3 minute read
 title: Is sentiment among academic job seekers in ecology changing?
+tags: academia ecology sentiment PhD Tableau R
 ---
 If you have ever been on the academic job market, you know how demoralizing it is. If you haven't had the pleasure, I can paint you a quick picture in two steps: 
 
