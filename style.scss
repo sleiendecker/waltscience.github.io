@@ -61,7 +61,6 @@ h2 {
 
 h3 {
   font-size: 22px;
-  line-height: 1;
   a {
     color: inherit;
   }
@@ -70,6 +69,22 @@ h3 {
 h4 {
   font-size: 18px;
   color: $gray;
+}
+
+h7 {
+  font-family: $helveticaNeue;
+  color: $darkerGray;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 20px;
+
+  line-height: 1;
+  margin: 1em 0 15px;
+  padding: 0;
+
+  @include mobile {
+    line-height: 1;
+  }
 }
 
 p {
