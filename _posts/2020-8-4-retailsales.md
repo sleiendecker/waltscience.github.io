@@ -6,6 +6,7 @@ summary: Yes, we spend more on groceries, online shopping, and maybe pasta machi
 excerpt: Yes, we spend more on groceries, online shopping, and maybe pasta machines.
 time: 3 minute read
 title: As our economy hits an unprecedented low, are we changing the way we spend?
+tags: economy Tableau R R-Shiny food GDP spending
 ---
 The [U.S. Gross Domestic Product (GDP)](https://en.wikipedia.org/wiki/Gross_domestic_product) dropped by 33% in the second quarter of 2020. The drop was the most drastic ever. **Seriously**. [Ever](https://www.npr.org/sections/coronavirus-live-updates/2020/07/30/896714437/3-months-of-hell-u-s-economys-worst-quarter-ever).
 
