@@ -4,14 +4,16 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-    
+  
+    <a href="{{ post.url }}">
     <div class="content">
-  		<img src="{{ site.baseurl }}{{ post.image }}">
+  		<img href="{{ site.baseurl }}{{ post.url }}" src="{{ site.baseurl }}{{ post.image }}" </a> >
   		<div class="text">
-    		<h3><strong>{{ post.title }}</strong></h3>
+    		<h3> <strong>{{ post.title }}</strong></h3>
     		<p>{{ post.excerpt }}</p>
   		</div>
 	</div>
+	</a>
     
   {% endfor %}
 </div>
