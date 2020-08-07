@@ -4,21 +4,14 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post">
-
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-	  <div class="entry">
-        <b><a href="{{ site.baseurl }}{{ post.url }}" style="color:#7C7878;">{{ post.excerpt }}</a></b><br> 
-        <i><a href="{{ site.baseurl }}{{ post.url }}" style="color:#7C7878;">{{ post.time }}</a></i>
-      </div>
-      
-      <br>
-      
-      <a href="{{ post.url }}">
-      <div class="gfg" 
-       style="background-image: url({{ site.baseurl }}{{ post.image }});">
-      </div>
-      </a>
-    </article>
+    
+    <div class="content">
+  		<img src="{{ site.baseurl }}{{ post.image }}">
+  		<div class="text">
+    		<h3><strong>{{ post.title }}</strong></h3>
+    		<p>{{ post.excerpt }}</p>
+  		</div>
+	</div>
+    
   {% endfor %}
 </div>
