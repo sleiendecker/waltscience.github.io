@@ -151,7 +151,7 @@ img {
 }
 
 .center-cropped {
-  width: 100%;
+  width: %;
   height: 100px;
   background-position: center center;
   background-repeat: no-repeat;
@@ -167,6 +167,8 @@ img {
 .content img {
   width: 20%;
   height: 150px;
+  background-position: left top;
+  background-repeat: no-repeat;
   margin-right: 10px;
   display: block;
 }
