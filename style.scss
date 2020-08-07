@@ -160,10 +160,19 @@ img {
   border-color: #7C7878;
 }
 
-.gfg {
-    width: 50%;
-    height: auto;
+.content {
+  display: flex;
 }
+
+.content img {
+  width: 20%;
+  height: 150px;
+  margin-right: 10px;
+  display: block;
+}
+
+.content h3,
+.content p {margin: 0;}
 
 
 /*********************/
