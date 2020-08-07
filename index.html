@@ -4,8 +4,6 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-    
-    <hr>
     <article class="post">
 
       <h7><a href="{{ site.baseurl }}{{ post.url }}" style="color:#A9A9A9;">{{ post.title }}</a></h7>
@@ -14,7 +12,6 @@ layout: default
         <i><a href="{{ site.baseurl }}{{ post.url }}" style="color:#c9c6c5;">{{ post.time }}</a></i>
       </div>
       
-      <hr>
       <br>
       
   {% endfor %}
