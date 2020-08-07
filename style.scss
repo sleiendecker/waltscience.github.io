@@ -152,8 +152,8 @@ img {
 
 .imcrop {
   object-fit: cover;
-
-  width: 100%;
+  max-width: 100%;
+  width: 50%;
   height: 150px;
 }
 
