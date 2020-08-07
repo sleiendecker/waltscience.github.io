@@ -152,9 +152,12 @@ img {
 
 .imcrop {
   object-fit: cover;
-  max-width: 100%;
   width: 50%;
   height: 150px;
+}
+
+.imcrop img {
+  max-width: 100%;
 }
 
 /*********************/
