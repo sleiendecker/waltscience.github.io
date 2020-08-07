@@ -174,8 +174,15 @@ img {
   display: block;
 }
 
-.content h3,
-.content p {margin: 0;}
+.content h3{
+  margin: 0;
+}
+
+.content p {
+  margin: 0;
+  color:#7C7878; 
+
+}
 
 
 /*********************/
